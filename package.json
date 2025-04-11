@@ -1,0 +1,19 @@
+{
+  "name": "lab8-bdd-cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0"
+  },
+  "dependencies": {
+    "chromedriver": "^135.0.1",
+    "selenium-webdriver": "^4.31.0"
+  }
+}
